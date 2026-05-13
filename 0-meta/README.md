@@ -8,4 +8,4 @@ KB configuration and metadata. This folder contains the single configuration fil
 
 ## Setup
 
-If `kb-config.yaml` still contains `# TODO` markers, setup is not complete. Ask your AI agent to guide you through the setup, or follow the [EACF Setup Guide](https://abq.institute/eacf/setup).
+If `kb-config.yaml` still contains `# TODO` markers, setup is not complete. Ask your AI agent to guide you through the setup, or follow the [FACE Setup Guide](https://abq.institute/face/setup).
