@@ -1,4 +1,4 @@
-# EACF Knowledge Base Configuration
+# FACE Knowledge Base Configuration
 # Fill in the TODO values, then open a PR to complete setup.
 # Your AI agent will guide you through this if you ask.
 
@@ -22,6 +22,6 @@ notifications:
 skills:
   version: "1.0"
   loaded:
-    - eacf-kb-core
-    - eacf-kb-write
-    - eacf-kb-git
+    - face-kb-core
+    - face-kb-write
+    - face-kb-git
